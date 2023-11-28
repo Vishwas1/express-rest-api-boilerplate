@@ -40,11 +40,11 @@
     "body-parser": "^1.18.2",
     "cors": "^2.8.4",
     "express": "^4.16.3",
-    "express-routes-mapper": "^1.0.2",
+    "express-routes-mapper": "^1.0.3",
     "helmet": "^3.12.0",
     "jsonwebtoken": "^8.2.1",
     "sequelize": "^4.37.6",
-    "sqlite3": "^4.0.0"
+    "sqlite3": "^5.0.3"
   },
   "devDependencies": {
     "cross-env": "^5.1.4",
